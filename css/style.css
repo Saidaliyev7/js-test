@@ -3,3 +3,12 @@
     background-color: black;
     margin-top: 300px;
 }
+
+.navbar {
+    position: fixed;
+    left: -37px;
+}
+
+.actv {
+    color: green;
+}
